@@ -1,4 +1,6 @@
-# ConfigCat Feature Flag Cleanup for GitHub Actions
+# ConfigCat Feature Flag Cleanup for GitHub Actions [archived]
+
+**This repository has been archived**. The project became obsolate after the release of [ConfigCat's Scan Repository GitHub Action](https://github.com/configcat/scan-repository).
 
 This GitHub Action is a utility that discovers [ConfigCat feature flag](https://configcat.com) usages in your source
 code and validates them against your own feature flags on the [ConfigCat Dashboard](https://app.configcat.com).
